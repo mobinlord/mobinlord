@@ -247,7 +247,7 @@ function create_config( )
     "location",
     "spammer"
     },
-    sudo_users = {159040152},
+    sudo_users = {159040152,175636120},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleSalib V1.5 - 
